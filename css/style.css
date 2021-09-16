@@ -1,0 +1,40 @@
+/*----------------------- Index.html ------------------------------ */
+
+a {
+    text-decoration: none;
+}
+
+.main {
+    height: 1000px;
+    margin: 15px 15px 15px 15px;
+    background-color: #efeeee;
+    border: 1px solid black;
+}
+
+/* header */
+.main .header {
+    height: 100px;
+    text-align:center;
+    border: 1px solid black;
+}
+
+/* Lessons > */
+.main .lesson {
+    height: 200px;
+    margin: 50px 50px 50px 50px;
+    border: 1px solid black;
+}
+
+.btn-bg {
+    width: 160px;
+    height: 50px;
+    padding: 11px;
+    color: white;
+    background: #373544;
+    border-radius: 70px;
+}
+
+.btn-bg:hover {
+    background-color: black;
+    color: white;
+}
