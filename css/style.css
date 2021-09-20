@@ -39,3 +39,12 @@ a {
     color: white;
 }
 /* Lessons < */
+
+#test a .www:visited, #test a .www:link {
+    text-decoration: underline;
+    color: purple;
+}
+
+a .www:hover {
+    text-decoration: none;
+}
